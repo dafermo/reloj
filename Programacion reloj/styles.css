@@ -1,0 +1,27 @@
+div {
+	text-align: center;
+	margin-top: 15%;
+}
+
+
+h1 {
+	
+	display: inline-block;
+	font-family: 'Libre Barcode 39 Text';
+	font-size: 12em;
+	letter-spacing: .7em;
+	background: linear-gradient(purple,red);
+	-webkit-background-clip: text;
+	color: transparent;
+}
+h2 {
+
+	font-family: 'Libre Barcode 128', cursive;	
+}
+
+body {
+
+	background-color: #140c24;
+
+}
+
